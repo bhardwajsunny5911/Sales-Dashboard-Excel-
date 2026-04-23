@@ -21,3 +21,5 @@ Pivot Charts
 Slicers & Filters
 Data Cleaning
 Dashboard Design & Formatting
+<img width="1606" height="979" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/9e5488bb-2d30-4bc3-abd6-1937ab9adb57" />
+
